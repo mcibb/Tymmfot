@@ -150,12 +150,12 @@ background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
   background-size: contain;
 }
 .pic1 {
-  /* The image used */
+  
   background-image: url("p1m.jpg");
-  /* Set a specific height */
+  
   height: 2050px;
   width: 100%;
-  /* Create the parallax scrolling effect */
+  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -223,7 +223,7 @@ background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
   background: -webkit-linear-gradient(bottom, rgba(162, 55, 142, 0.762342437) 35%, rgba(135, 124, 86, 0.71) 49%);
   background: -o-linear-gradient(bottom, rgba(162, 55, 142, 0.762342437) 35%, rgba(135, 124, 86, 0.71) 49%);
   background: linear-gradient(to top, rgba(162, 55, 142, 0.762342437) 35%, rgba(135, 124, 86, 0.71) 49%);
-  height: 350px;
+  height: 550px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
