@@ -332,10 +332,11 @@ background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
 background: radial-gradient(circle, rgba(238,174,202,0.27494747899159666) 0%, rgba(148,177,233,0.9948354341736695) 100%);
 }	
 
+
 #cv {
 	display: flex;
 	height: 100vh;
-	width: auto;
+	max-width:  100vw;
 	justify-content: center;
 	align-content: center;
 }
