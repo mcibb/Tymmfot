@@ -333,9 +333,11 @@ background: radial-gradient(circle, rgba(238,174,202,0.27494747899159666) 0%, rg
 }	
 
 #cv {
-	display: block;
-	width: 100vw;
+	display: flex;
 	height: 100vh;
+	width: auto;
+	justify-content: center;
+	align-content: center;
 }
 .pccolumn {
   flex: 48%;
