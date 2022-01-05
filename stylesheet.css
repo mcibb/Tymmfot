@@ -48,7 +48,12 @@ html, body {
   background-repeat:no-repeat;
 }
 
-
+.iframe {
+	display: flex;
+		width: 60vw;
+		height: 40vw;
+		margin: auto;
+}
 .contact-panel {
 	display: none;
 	position: absolute;
